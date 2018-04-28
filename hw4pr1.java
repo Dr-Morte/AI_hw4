@@ -4,11 +4,6 @@
 //Due: May 1, 2018
 //hw4pr1.java
 
-//1. (10 points) Write a program named hw4pr1.cpp, etc., to print the truth table
-//for the FuzzyImplies function corresponding to FuzzyAnd(X,Y) = min(X,Y), for
-//X and Y equal to 0, 0.25, .5, .75, and 1.  Hint: There are 25 lines in this
-//truth table.
-
 import java.lang.Math.*;
 
 class hw4pr1{
